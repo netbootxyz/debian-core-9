@@ -1,6 +1,6 @@
 endpoints:
-  ubuntu-18.04-live-kernel:
-    path: /ubuntu-core-18.04/releases/download/REPLACE_RELEASE_NAME/
+  debian-9-live-kernel:
+    path: /debian-core-9/releases/download/REPLACE_RELEASE_NAME/
     files:
     - initrd
     - vmlinuz
